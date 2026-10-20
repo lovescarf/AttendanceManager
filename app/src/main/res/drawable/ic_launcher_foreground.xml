@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clipboard / Calendar Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,28 h44 c3.3,0 6,2.7 6,6 v44 c0,3.3 -2.7,6 -6,6 H32 c-3.3,0 -6,-2.7 -6,-6 V34 c0,-3.3 2.7,-6 6,-6 z" />
+    <!-- Header bar on clipboard -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M32,28 h44 c3.3,0 6,2.7 6,6 v10 H26 V34 c0,-3.3 2.7,-6 6,-6 z" />
+    <!-- Clip on top -->
+    <path
+        android:fillColor="#3D405B"
+        android:pathData="M44,24 h20 c1.1,0 2,0.9 2,2 v4 H42 v-4 c0,-1.1 0.9,-2 2,-2 z" />
+    <!-- Lines for attendance items -->
+    <!-- Line 1 with Checkmark -->
+    <path
+        android:fillColor="#81B29A"
+        android:pathData="M34,51 l3,3 l6,-6 l2,2 l-8,8 l-5,-5 z" />
+    <path
+        android:fillColor="#3D405B"
+        android:pathData="M52,50 h22 v3 H52 z" />
+    <!-- Line 2 with Checkmark -->
+    <path
+        android:fillColor="#81B29A"
+        android:pathData="M34,63 l3,3 l6,-6 l2,2 l-8,8 l-5,-5 z" />
+    <path
+        android:fillColor="#3D405B"
+        android:pathData="M52,62 h18 v3 H52 z" />
+    <!-- Line 3 -->
+    <path
+        android:fillColor="#81B29A"
+        android:pathData="M34,75 l3,3 l6,-6 l2,2 l-8,8 l-5,-5 z" />
+    <path
+        android:fillColor="#3D405B"
+        android:pathData="M52,74 h14 v3 H52 z" />
+</vector>

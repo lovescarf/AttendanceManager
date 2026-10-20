@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="peach_header">#FFA589</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="text_primary">#2C2C2C</color>
+    <color name="text_secondary">#757575</color>
+    <color name="icon_bg">#F4F7F6</color>
+</resources>
